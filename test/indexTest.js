@@ -34,6 +34,7 @@ describe('employees', function() {
       expect(employee).to.eql({
         name: 'Sam',
         streetAddress: '12 Broadway'
+        
       });
     });
   });
